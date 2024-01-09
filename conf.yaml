@@ -1,4 +1,2 @@
-hidden_dim: 10
-device: "cpu"
-vocab_size: 10000
+vocab_size: 15000
 max_length: 20
